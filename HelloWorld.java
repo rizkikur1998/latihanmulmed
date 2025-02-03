@@ -8,3 +8,12 @@ class HelloWorld
 
 }
 
+class ApaaKabar
+{
+
+	public static void (String args[])
+	{
+		system.out.println("Apa Kabar Kamu?");
+	}
+
+}
